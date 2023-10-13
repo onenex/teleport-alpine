@@ -2,7 +2,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/thixpin/teleport-alpine.svg?style=flat-square)](https://hub.docker.com/r/thixpin/teleport-alpine/)
 
 
-Alpine GNU C library (glibc) Docker image
+Alpine Teleport Docker image
 =========================================
 
 This image is based on Alpine Linux image, and include [glibc](https://www.gnu.org/software/libc/) and [Teleport](https://github.com/gravitational/teleport)
